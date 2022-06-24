@@ -1,2 +1,5 @@
 # GitCourse
 ElzeroWebschoolgitcourse
+
+
+## Project Notes
